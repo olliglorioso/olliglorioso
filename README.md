@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olli Glorioso
+
+Check out my most advanced projects:
+- [Find my kitten, AI!](https://catscanners.github.io/find-my-kitten/)
+- [Company Defense](https://github.com/olliglorioso/company-defense)
+- [InvShare](https://github.com/olliglorioso/InvShare)
+- [linear-regression-ts](https://github.com/olliglorioso/linear-regression-ts)
 
 <!--
 **olliglorioso/olliglorioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
