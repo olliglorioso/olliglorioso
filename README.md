@@ -1,6 +1,8 @@
 ## Olli Glorioso
 
 Check out my most advanced projects:
+- [GPUDirect Storage benchmarking on the CLAIX HPC cluster](https://github.com/olliglorioso/claix_gds_benchmarking) (under development)
+- Graph machine learning for combinatorial optimization (under development)
 - [Find my kitten, AI!](https://catscanners.github.io/find-my-kitten/)
 - [Company Defense](https://github.com/olliglorioso/company-defense)
 - [InvShare](https://github.com/olliglorioso/InvShare)
